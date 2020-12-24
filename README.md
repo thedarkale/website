@@ -9,3 +9,8 @@ $ npx gatsby new website https://github.com/renyuanz/leonids
 ```bash
 $ yarn dev
 ```
+
+## Production
+```bash
+$ yarn build
+```
