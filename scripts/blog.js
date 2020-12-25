@@ -1,5 +1,5 @@
 
-// https://www.freecodecamp.org/news/how-to-create-files-automatically-and-save-time-with-magic-scaffolding-8dcd1b31483/
+// Project generator for thedarkale
 
 const template = {
 	index: (title, date, author, description, categories, image, song) => `
