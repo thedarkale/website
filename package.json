@@ -62,6 +62,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests!\" && exit 1",
     "slugify": "node scripts/slugify.js",
-    "date": "node scripts/date.js"
+    "date": "node scripts/date.js",
+    "blog": "node scripts/blog.js",
   }
 }
