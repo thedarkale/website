@@ -22,6 +22,7 @@ type Data = {
         frontmatter: {
           title: string
           date: string
+          author: string
           description: string
         }
         fields: {
@@ -130,6 +131,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            author
           }
         }
       }

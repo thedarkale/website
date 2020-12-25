@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "prettier": "2.0.5",
+    "slugify": "^1.4.6",
     "tailwindcss": "^1.6.2"
   },
   "homepage": "https://github.com/renyuanz/leonids#readme",
@@ -59,6 +60,8 @@
     "start": "npm run dev",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests!\" && exit 1"
+    "test": "echo \"Write tests!\" && exit 1",
+    "slugify": "node scripts/slugify.js",
+    "date": "node scripts/date.js"
   }
 }

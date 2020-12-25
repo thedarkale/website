@@ -43,7 +43,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
         <footer>
-          <Bio />
+          <Bio author={post.frontmatter.author} />
         </footer>
       </article>
 
@@ -93,6 +93,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        author
         description
       }
     }
