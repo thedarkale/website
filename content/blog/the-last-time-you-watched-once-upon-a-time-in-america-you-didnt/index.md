@@ -38,7 +38,7 @@ After watching and analyzing the movie 3 times, those are the 15 hours of my lif
 
 There are some alternate theories justifying the ambiguous last scenes of the movie like the one time when it was not clear weather Mr. Bailey actually jumped on that truck or he slipped away through that garbage truck from the right side to the driving seat and moved away to isolation as a self punishment for what he did to Noodles. There are three instances in the movie that are related to these hypotheses.
 
-1. The last uncut sense, that was later removed from the movie during public release, when Jimmy hinted Mr. Bailey to commit sucide by saying: _“I'd be very happy for you tonight, if during all the noise of the party I'd hear a shot.”_ because he’s going to be killed by their associates because of the mistakes Mr. Bailey made and the corruption on going investigation had only added to the suicidal motivation of Mr. Bailey.
+1. The last uncut sense, that was later removed from the movie during public release, when Jimmy hinted Mr. Bailey to commit suicide by saying: _“I'd be very happy for you tonight, if during all the noise of the party I'd hear a shot.”_ because he’s going to be killed by their associates because of the mistakes Mr. Bailey made and the corruption on going investigation had only added to the suicidal motivation of Mr. Bailey.
 
 2. Another instance where Mr. Bailey and Noodles were talking in Mr. Bailey's office. Noodles said: _“I hope the investigation turns out to be nothing. It’d be a shame to see a lifetime of work go to waste.”_ Noodles doesn't want Jimmy’s associates to kill him neither does he want Maxie to kill himself.
 
