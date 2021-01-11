@@ -7,12 +7,12 @@ description: "Fiber muscle ultimate showdown."
 categories: [Body, Health]
 comments: true
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: ./banner.jpg
+  url: "https://commons.wikimedia.org/wiki/User:%E4%B9%8C%E6%8B%89%E8%B7%A8%E6%B0%AA"
+  creditlink: "https://commons.wikimedia.org/w/index.php?curid=46401576"
 ---
 
-![Banner]()
+![Banner](./banner.jpg)
 
 ---
 

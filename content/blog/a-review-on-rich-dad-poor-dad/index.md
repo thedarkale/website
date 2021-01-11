@@ -7,12 +7,12 @@ description: ""
 categories: [Book, Money]
 comments: true
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: ./banner.jpg
+  url: "https://www.pexels.com/photo/round-silver-and-gold-coins-730564/"
+  creditlink: "https://www.pexels.com/@davidmcbee" 
 ---
 
-![Banner]()
+![Banner](./banner.jpg)
 
 ---
 
