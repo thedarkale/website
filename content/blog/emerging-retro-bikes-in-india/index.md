@@ -38,4 +38,4 @@ Yamaha has recently entered the market with the launch of Hness CD350 which brin
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/A-_eGrRM2xI
+- Suggested song: [Ride On - Dierks Bentley](https://youtu.be/A-_eGrRM2xI)

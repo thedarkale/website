@@ -31,4 +31,4 @@ The author had thoroughly studied the Gaza incident which leads to a solid setup
 ---
 ### Additional sources
 
-- Suggested song: [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=yivHUgTzQwSrmlBxmgIarw)
+- Suggested song: [Little Wing - Jimi Hendrix](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=yivHUgTzQwSrmlBxmgIarw)

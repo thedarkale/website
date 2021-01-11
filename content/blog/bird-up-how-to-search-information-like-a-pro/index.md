@@ -98,5 +98,5 @@ This is the only place where social media is helpful. You can be part of [Facebo
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/Y66j_BUCBMY
+- Suggested song: [American Authors - Best Day Of My Life](https://youtu.be/Y66j_BUCBMY)
 - [Stop Wasting Time - How to Search Like a Pro](https://www.lifehack.org/articles/technology/stop-wasting-time-how-to-search-like-a-pro.html) by Julie McCormick

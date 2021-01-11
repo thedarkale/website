@@ -101,4 +101,4 @@ This movie is more than brilliant special effects.
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/Gs069dndIYk
+- Suggested song: [Earth, Wind & Fire - September](https://youtu.be/Gs069dndIYk)

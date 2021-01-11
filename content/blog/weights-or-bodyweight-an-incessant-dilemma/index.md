@@ -78,4 +78,4 @@ Since some exercise are more ideal for you than others based on factors like:
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/bpOSxM0rNPM
+- Suggested song: [Do I Wanna Know? - Arctic Monkeys](https://youtu.be/bpOSxM0rNPM)

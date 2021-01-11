@@ -25,4 +25,4 @@ Yuval also says that the idea that a company exists in paper is developed to pro
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/0qanF-91aJo
+- Suggested song: 

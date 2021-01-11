@@ -31,4 +31,4 @@ Sabbath laid the groundwork by their debut and next two albums ‘Paranoid’ an
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/0qanF-91aJo
+- Suggested song: [Paranoid - BLACK SABBATH](https://youtu.be/0qanF-91aJo)

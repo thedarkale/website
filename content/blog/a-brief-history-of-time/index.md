@@ -31,4 +31,4 @@ I recommend this book to everyone who wishes to understand more about the univer
 ---
 ### Additional sources
 
-- Suggested song: [The Scientist](https://youtu.be/RB-RcX5DS5A)
+- Suggested song: [The Scientist - Coldplay](https://youtu.be/RB-RcX5DS5A)

@@ -63,7 +63,7 @@ After watching this movie we can understand what gives a passionate man and 10 y
 ---
 ### Additional sources
 
-- Suggested song: https://youtu.be/yRDDflQlvgc
+- Suggested song: [Once Upon a Time in America - The Danish National Symphony Orchestra](https://youtu.be/yRDDflQlvgc)
 - Once Upon a Time in America [Wikipedia](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America) page
 - Alternate Versions from [IMDB](https://www.imdb.com/title/tt0087843/alternateversions)
 - [13 Epic Facts About Once Upon a Time in America](https://www.mentalfloss.com/article/70066/13-epic-facts-about-once-upon-time-america) by Eric D Snider
