@@ -7,12 +7,12 @@ description: "What if there is an alternate and cooler way to authenticate yours
 categories: [Signature, Culture, Japan]
 comments: true
 image:
-  feature: "./banner.jpg"
+  feature: ./banner.jpg
   url: "https://commons.wikimedia.org/w/index.php?curid=4660939"
   creditlink: "https://commons.wikimedia.org/wiki/User:Yug"
 ---
 
-![Banner](props.pageContext.frontmatter.image.feature)
+![Banner](./banner.jpg)
 
 ---
 

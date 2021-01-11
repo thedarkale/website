@@ -7,12 +7,12 @@ description: "The wonders of Mother Nature."
 categories: [Gravity, Travel, Discover, Adventure]
 comments: true
 image:
-  feature: "./banner.jpg"
+  feature: ./banner.jpg
   url: "https://unsplash.com/photos/Jd09hiCUPCs"
   creditlink: "https://unsplash.com/@usgs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
 ---
 
-![Banner](props.pageContext.frontmatter.image.feature)
+![Banner](./banner.jpg)
 
 ---
 

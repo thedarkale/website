@@ -7,12 +7,12 @@ description: "Only time will tell."
 categories: [Time, History, Book]
 comments: true
 image:
-  feature: ./banner.jpeg
+  feature: ./banner.jpg
   credit: Atypeek Dgn
   creditlink: https://www.pexels.com/photo/classic-clock-in-clear-blue-sky-5858637/
 ---
 
-![Banner](./banner.jpeg)
+![Banner](./banner.jpg)
 
 ---
 

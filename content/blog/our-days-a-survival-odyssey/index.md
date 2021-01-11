@@ -7,12 +7,12 @@ description: "War? What is it good for? Absolutely Nothing."
 categories: [Book, War, Review, Novel]
 comments: true
 image:
-  feature: "./banner.jpg"
+  feature: ./banner.jpeg
   url: ""
   creditlink: "https://notionpress.com/author/swaraj_bhatia"
 ---
 
-![Banner]("./banner.jpg")
+![Banner](./banner.jpeg)
 
 ---
 

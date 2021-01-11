@@ -7,12 +7,12 @@ description: "The Close Combat move."
 categories: [Martial Arts, Exercise, Power, Technique]
 comments: true
 image:
-  feature: ./banner.jpeg
+  feature: ./banner.jpg
   credit: Eigen werk
   creditlink: https://commons.wikimedia.org/wiki/File:One-inch-punch.jpg
 ---
 
-![Banner](./banner.jpeg)
+![Banner](./banner.jpg)
 
 ---
 
